@@ -4,7 +4,7 @@ import {
   HeaderContainer,
   InfoContainer,
   StyledImage,
-} from ".Style";
+} from "./Style"
 
 import codingSvg from "../../assets/coding.svg";
 
