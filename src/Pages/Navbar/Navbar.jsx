@@ -23,7 +23,7 @@ const Navbar = () => {
         <MenuLink onClick={() => setIsOpen(!isOpen)} to={"/about"}>
           About
         </MenuLink>
-        <MenuLink to={"/githup"}>Githup</MenuLink>
+        <MenuLink to={"/github"}>Github</MenuLink>
         <MenuLink
           onClick={() => setIsOpen(!isOpen)}
           to={"/"}
